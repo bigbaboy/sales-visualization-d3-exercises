@@ -2,6 +2,8 @@
 
 An academic front-end visualization project using HTML, JavaScript and D3.js to explore a Vietnamese sales dataset.
 
+**Looking for my other projects?** See [my portfolio overview](PORTFOLIO.md) for the electricity RAG chatbot, analytics dashboards and machine-learning prototypes.
+
 ## Scope
 
 Standalone Q1–Q12 chart pages. Saved MHTML captures are also included as historical artifacts.
