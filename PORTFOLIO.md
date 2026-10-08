@@ -17,6 +17,26 @@ I build academic prototypes that connect business questions with data and softwa
 
 Some repositories explore related sales datasets with different implementations. They represent stages of learning rather than separate commercial products.
 
+## Additional machine-learning work
+
+[Lung Cancer Survey Classification](https://github.com/bigbaboy/Final-report) is an academic Streamlit prototype using an entropy-based decision tree, KNN and Random Forest. The application and training scripts match [LungCancerApp](https://github.com/bigbaboy/LungCancerApp); these repositories represent the same topic. No clinical validity or verified evaluation score is claimed.
+
+[Insurance Cost Prediction Prototype](https://github.com/bigbaboy/Group2) is an unfinished regression interface. The trained model required to run inference is not included.
+
+## Repository guide
+
+- [chatbot-dienluc-danang](https://github.com/bigbaboy/chatbot-dienluc-danang): Electricity document retrieval, billing and solar calculations.
+- [221124029109-LeMinhDat-48K29.1](https://github.com/bigbaboy/221124029109-LeMinhDat-48K29.1): Relational sales data models and D3.js analytics.
+- [MinhDat-ThanhDat-KimAnh](https://github.com/bigbaboy/MinhDat-ThanhDat-KimAnh): Behavioral KMeans segmentation and menu recommendations.
+- [-DV118-](https://github.com/bigbaboy/-DV118-): Sales, margins, discounts and returns.
+- [GroupDV118](https://github.com/bigbaboy/GroupDV118): Django and D3.js sales and segment views.
+- [Game-Recommendation-System](https://github.com/bigbaboy/Game-Recommendation-System): Cosine nearest-neighbor game recommendations.
+- [LungCancerApp](https://github.com/bigbaboy/LungCancerApp): Academic survey classification demo.
+- [Final-report](https://github.com/bigbaboy/Final-report): Same classification topic; final-report repository.
+- [Group2](https://github.com/bigbaboy/Group2): Insurance regression interface; model artifact missing.
+- [LeMinhDat](https://github.com/bigbaboy/LeMinhDat): Standalone sales chart exercises.
+- [LeminhDat48291](https://github.com/bigbaboy/LeminhDat48291): Sales charts with a navigation interface.
+
 ## Skills demonstrated in my projects
 
 - **Business analysis foundations:** defining project scope, describing functions and inputs/outputs, documenting processing flows; process diagrams with Draw.io and experience using Figma.
